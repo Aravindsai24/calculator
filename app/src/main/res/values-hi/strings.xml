@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कैलकुलेटर</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पारण शब्द</string>
+    <string name="login_button">लॉग इन करें</string>
+    <string name="initial_expression">दर्ज करें</string>
+    <string name="initial_result">0</string>
+    <string name="button0">0</string>
+    <string name="button1">१</string>
+    <string name="button2">२</string>
+    <string name="button3">३</string>
+    <string name="button4">४</string>
+    <string name="button5">५</string>
+    <string name="button6">६</string>
+    <string name="button7">७</string>
+    <string name="button8">८</string>
+    <string name="button9">९</string>
+    <string name="button_d">/</string>
+    <string name="button_m">*</string>
+    <string name="button_a">+</string>
+    <string name="button_s">-</string>
+    <string name="button_eq">=</string>
+    <string name="button_b">⌫</string>
+    <string name="button_c">सी</string>
+    <string name="button_po">(</string>
+    <string name="button_pc">)</string>
+    <string name="button_pw">^</string>
+
+</resources>

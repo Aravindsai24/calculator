@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login_button">login</string>
+    <string name="initial_expression">enter</string>
+    <string name="initial_result">0</string>
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button_d">/</string>
+    <string name="button_m">*</string>
+    <string name="button_a">+</string>
+    <string name="button_s">-</string>
+    <string name="button_eq">=</string>
+    <string name="button_b">⌫</string>
+    <string name="button_c">CLR</string>
+    <string name="button_po">(</string>
+    <string name="button_pc">)</string>
+    <string name="button_pw">^</string>
+
+</resources>
